@@ -19,8 +19,8 @@
 </div>
 <br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeGyeong115&layout=compact&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaeGyeong115&hide=stars,contribs&count_private=true&layout=compact&theme=dracula" width="495">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightaylor&layout=compact&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=lightaylor&hide=stars,contribs&count_private=true&layout=compact&theme=dracula" width="495">
 </div>
 
 
